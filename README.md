@@ -25,6 +25,4 @@ Create various plots of anomaly data using 'plot_' scripts
 
 Calculate water movement along isopycnals between climatological and marine heatwave conditions using an objective function  (Analysis_DensitySurface_Distance_V7.m)
 
-Calculate mixed layer depth
-
 Co-locate Argo profiling float data with NES CTD data in space and time; compare measurements
