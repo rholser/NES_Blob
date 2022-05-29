@@ -7,6 +7,8 @@ Northern elephant seal-collected CTD data can be accessed through the MEOP data 
 
 Climatological data used were from World Ocean Atlas 2018 (1981-2010 climatology on a 1x1 degree grid): https://www.ncei.noaa.gov/access/world-ocean-atlas-2018/  Code is written to deal with netCDF format.
 
+Argo profiling float data were from the World Ocean Database (WOD-PFL2) (https://www.ncei.noaa.gov/products/world-ocean-database).  Code is written for mono-profile net CDF files.
+
 All scripts are written in Matlab.
 
 Requires Gibbs Seawater Toolbox (TEOS 10): https://www.teos-10.org/software.htm
